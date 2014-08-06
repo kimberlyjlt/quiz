@@ -10,6 +10,8 @@ Rails.application.routes.draw do
   get'welcome/like'
 
   get 'welcome/bottles'
+
+  get 'welcome/stuff'
   
   resources :posts
 

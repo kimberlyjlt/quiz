@@ -13,5 +13,8 @@ class WelcomeController < ApplicationController
 
   def bottles
   end
+
+  def stuff
+  end
   
 end
